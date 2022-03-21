@@ -5,9 +5,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.demo.bean.Employee;
+
 import com.example.demo.bean.Skill;
-import com.example.demo.dto.EmpDto;
+
 import com.example.demo.repository.ISkillRepository;
 
 @Service

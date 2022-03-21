@@ -1,6 +1,6 @@
 package com.example.demo.bean;
 
-import java.util.List;
+
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
